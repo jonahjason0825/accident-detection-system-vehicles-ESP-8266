@@ -22,6 +22,6 @@ dashboard.
 suitable for installation in vehicles.
 
 Limitations: The current scope does not include integration with national emergency service databases
-or cellular (GSM) communication; it relies on available Wi-Fi connectivity.
+or cellular (GSM) communication; instead, it relies on available Wi-Fi connectivity.
 
 Programmed on the Arduino IDE and simulated on the Wokwi simulator. 
