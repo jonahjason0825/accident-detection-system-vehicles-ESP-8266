@@ -14,8 +14,7 @@ using the ESP8266 module to notify emergency contacts or services.
 3. Location Accessibility: The system can be integrated with a GPS module to transmit the location of
 the accident to responders, enabling faster and more precise emergency response.
 
-4. Remote Monitoring: The solution supports IoT-based remote access via ThingSpeak, allowing emer-
-gency services or designated contacts to receive real-time accident alerts and data through an online
+4. Remote Monitoring: The solution supports IoT-based remote access via ThingSpeak, allowing emergency services or designated contacts to receive real-time accident alerts and data through an online
 dashboard.
 
 5. Standalone Embedded System: The system is designed as a compact, low-power embedded solution
