@@ -1,5 +1,5 @@
 Road safety and accident detection has been a paramount necessity of today, as vehicular density keeps increasing. 
-To address road these issues, we propose to design and develop an Accident Detection System using
+To address these issues, we propose to design and develop an Accident Detection System using
 the ESP8266 Wi-Fi microcontroller, to provide real-time monitoring, immediate alerts, and remote
 accessibility to enhance emergency response to road accidents.
 
